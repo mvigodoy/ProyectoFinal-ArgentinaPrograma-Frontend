@@ -1,0 +1,17 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: rgb(15 25 34);
+    color: white;
+    
+}
+h2{
+    color: white;
+    vertical-align: middle;
+}
+
+td{
+    color: white;
+    vertical-align: middle;
+}

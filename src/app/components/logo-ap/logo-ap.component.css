@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    margin-right: 15px;
+}
+ #github{
+    margin-right: 0.5em;
+ }
+
+.btn{
+    border-width: 2px;
+    margin-left: 30px;
+}
+#logoAP{
+    width: 150px;
+}
+img{
+    width: 55px;
+    
+}
+
+/*--vista celular--*/
+@media (max-width: 575px){
+    .container{
+        flex-direction: column;
+    
+    }
+    .redes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .redes img{
+        margin: 0.2em;
+    }
+}
