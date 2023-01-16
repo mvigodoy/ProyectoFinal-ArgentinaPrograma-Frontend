@@ -3,3 +3,16 @@
     padding: 20px;
     color: white;
 }
+
+.foto{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+}
+
+.container{
+    text-align: center;
+    padding-top: 20px;
+}
